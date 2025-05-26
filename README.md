@@ -3,7 +3,7 @@
 
 # 🚀 Decentralized Crowdfunding Platform
 
-![Screenshot](../images/screenshot1.png)
+![Screenshot](../screenshot1.png)
 ![Demo](../images/demo.gif)
 
 # Or with HTML for sizing
